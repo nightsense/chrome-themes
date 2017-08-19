@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "description": "blue chrome/chromium theme for i3 tiling wm",
+  "name": "blue chrome/chromium theme for i3 tiling wm",
+  "icons": {
+    "16": "images/i3-blue16.png",
+    "48": "images/i3-blue48.png",
+    "128": "images/i3-blue128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [ 40, 85, 119 ],
+      "frame_inactive": [ 34, 34, 34 ],
+      "frame_incognito": [ 40, 85, 119 ],
+      "frame_incognito_inactive": [ 34, 34, 34 ],
+      "tab_background_text": [ 255, 255, 255 ]
+    },
+    "images": {
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_tab_background_incognito": "images/theme_tab_background.png"
+    }
+  },
+  "version": "1.0"
+}

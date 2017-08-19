@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "description": "fidiri (fedora + i3) chrome/chromium theme",
+  "name": "fidiri (fedora + i3) chrome/chromium theme",
+  "icons": {
+    "16": "images/fidiri16.png",
+    "48": "images/fidiri48.png",
+    "128": "images/fidiri128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [ 41, 65, 114 ],
+      "frame_inactive": [ 34, 34, 34 ],
+      "frame_incognito": [ 41, 65, 114 ],
+      "frame_incognito_inactive": [ 34, 34, 34 ],
+      "tab_background_text": [ 255, 255, 255 ]
+    },
+    "images": {
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_tab_background_incognito": "images/theme_tab_background.png"
+    }
+  },
+  "version": "1.0"
+}
